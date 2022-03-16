@@ -7,6 +7,7 @@ a = '{{a+2}*{{b+{c*d}}+e*d}}'
 b = '{a}*b{'
 c = '}a+b{'
 
+
 def maxDepth(S):
     current_max = 0
     max = 0
@@ -28,6 +29,7 @@ def maxDepth(S):
         return -1
 
     return max
+
 
 print(maxDepth(a))
 print(maxDepth(b))
