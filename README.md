@@ -1,23 +1,23 @@
 My repo of python answers from the book 100 Page Python Intro - https://learnbyexample.github.io/100_page_python_intro/cover.html
 
-- [Strings and user input](./python_study/100PagesPythonIntro/exercises/stringsAndUserInput)
+- [Strings and user input](./100PagesPythonIntro/exercises/stringsAndUserInput)
 
-- [Control structures](python_study/100PagesPythonIntro/exercises/controlStructures)
+- [Control structures](./100PagesPythonIntro/exercises/controlStructures)
 
-- [Exception handling](python_study/100PagesPythonIntro/exercises/exceptionHandling)
+- [Exception handling](./100PagesPythonIntro/exercises/exceptionHandling)
 
-- [Tuple and Sequence operations](python_study/100PagesPythonIntro/exercises/tupleAndSequence)
+- [Tuple and Sequence operations](./100PagesPythonIntro/exercises/tupleAndSequence)
 
-- [List](python_study/100PagesPythonIntro/exercises/list)
+- [List](./100PagesPythonIntro/exercises/list)
 
-- [Dict](python_study/100PagesPythonIntro/exercises/dict)
+- [Dict](./100PagesPythonIntro/exercises/dict)
 
-- [Set](python_study/100PagesPythonIntro/exercises/set)
+- [Set](./100PagesPythonIntro/exercises/set)
 
-- [Text processing](python_study/100PagesPythonIntro/exercises/textProcessing)
+- [Text processing](./100PagesPythonIntro/exercises/textProcessing)
 
-- [Comprehensions and Generator expressions](python_study/100PagesPythonIntro/exercises/comprehensionsAndGeneratorExpressions)
+- [Comprehensions and Generator expressions](./100PagesPythonIntro/exercises/comprehensionsAndGeneratorExpressions)
 
-- [Dealing with files](python_study/100PagesPythonIntro/exercises/dealingWithFiles)
+- [Dealing with files](./100PagesPythonIntro/exercises/dealingWithFiles)
 
-- [Command line arguments](python_study/100PagesPythonIntro/exercises/commandLineArguments)
+- [Command line arguments](./100PagesPythonIntro/exercises/commandLineArguments)
